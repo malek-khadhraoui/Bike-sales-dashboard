@@ -1,9 +1,9 @@
 # 🚴 Bike Sales Dashboard (Excel Project)
 
 ## 📖 Introduction
--This project is a simple **Excel dashboard** designed to analyze and visualize bike sales data.  
--It demonstrates how raw data can be transformed into meaningful insights using **pivot tables, charts, and slicers**.
--<a href = "https://github.com/malek-khadhraoui/Bike-sales-dashboard/blob/main/Excel%20Project%20Dataset%20(1).xlsx">Dataset
+- This project is a simple **Excel dashboard** designed to analyze and visualize bike sales data.  
+- It demonstrates how raw data can be transformed into meaningful insights using **pivot tables, charts, and slicers**.
+- <a href = "https://github.com/malek-khadhraoui/Bike-sales-dashboard/blob/main/Excel%20Project%20Dataset%20(1).xlsx">Dataset
 ---
 
 ## 🎯 Objectives
@@ -14,8 +14,8 @@
 
 ---
 
-## 🛠️ Tools Used
-- **Microsoft Excel** (Pivot Tables, Charts, Slicers, Conditional Formatting)  
+## Tools Used
+- **Microsoft Excel** (Pivot Tables, Charts, Conditional Formatting)  
 - Dataset: *Bike Sales Dataset*  
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Open the Excel file in Microsoft Excel.  
 2. Navigate to the **Dashboard** sheet.  
 3. Use slicers and filters to explore sales data interactively.  
