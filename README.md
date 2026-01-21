@@ -1,49 +1,55 @@
 # 🚴 Bike Sales Dashboard (Excel Project)
 
-## 📖 Introduction 
-This project is a simple Excel dashboard designed to analyze and visualize bike sales data.  
-It demonstrates how raw data can be transformed into meaningful insights using pivot tables, charts, and slicers.
-<a href = "https://github.com/malek-khadhraoui/Bike-sales-dashboard/blob/main/Excel%20Project%20Dataset%20(1).xlsx">Dataset
+## 📖 Introduction
+This project is a professional **Excel dashboard** built to analyze and visualize bike sales data.  
+It demonstrates how raw data can be transformed into meaningful insights using **pivot tables, charts, and conditional formatting**.  
+The dataset used in this project can be found here:  
+[📂 Bike Sales Dataset](https://github.com/malek-khadhraoui/Bike-sales-dashboard/blob/main/Excel%20Project%20Dataset%20(1).xlsx)
+
 ---
 
 ## 🎯 Objectives
-- Practice **data cleaning and preparation** in Excel  
-- Build **pivot tables** to summarize sales data  
-- Design an **interactive dashboard** with charts and filters  
-- Present key insights on customer demographics and product categories  
+- Apply **data cleaning and preparation** techniques in Excel  
+- Build **pivot tables** to summarize and aggregate sales data  
+- Design a clear and professional dashboard with charts and formatting  
+- Present insights on customer demographics and regional sales performance  
 
 ---
 
-## Tools Used
-- **Microsoft Excel** (Pivot Tables, Charts, Conditional Formatting)  
+## 🛠️ Tools Used
+- **Microsoft Excel**  
+  - Pivot Tables  
+  - Charts (Column, Bar, Line)  
+  - Conditional Formatting  
 - Dataset: *Bike Sales Dataset*  
 
 ---
 
 ## 📊 Features
-- Interactive dashboard with filters for region, gender, and product type  
+- Dashboard summarizing bike sales performance  
 - Visualizations of:
-  - Total sales by category  
-  - Customer demographics (age, gender)  
-  - Regional sales performance  
-- Clean and professional layout for easy interpretation  
+  - **Total sales by category**  
+  - **Customer demographics** (age groups, gender)  
+  - **Regional sales performance**  
+- Clean layout for easy interpretation and reporting  
 
 ---
 
-## How to Use
-1. Open the Excel file in Microsoft Excel.  
+## 🚀 How to Use
+1. Download and open the Excel file in Microsoft Excel.  
 2. Navigate to the **Dashboard** sheet.  
-3. Explore sales data interactively.  
+3. Review charts and pivot tables to explore sales insights.  
 
 ---
 
 ## 📚 What I Learned
-- How to clean and structure raw data in Excel  
-- Building pivot tables for quick analysis  
+- Cleaning and structuring raw data for analysis  
+- Building pivot tables to quickly summarize large datasets  
 - Designing dashboards that communicate insights effectively  
+- Using conditional formatting to highlight key trends  
 
 ---
 
 ## 👤 Author
 **Malek Khadhraoui**  
-Software Engineering graduate & Data Scienece master degree student
+Software Engineering Graduate & Data Science Master’s Degree Student
