@@ -3,7 +3,7 @@
 ## 📖 Introduction
 This project is a simple **Excel dashboard** designed to analyze and visualize bike sales data.  
 It demonstrates how raw data can be transformed into meaningful insights using **pivot tables, charts, and slicers**.
-
+<a href = "https://github.com/malek-khadhraoui/Bike-sales-dashboard/blob/main/Excel%20Project%20Dataset(Dashboard).csv">
 ---
 
 ## 🎯 Objectives
